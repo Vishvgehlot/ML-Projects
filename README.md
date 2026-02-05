@@ -49,8 +49,6 @@ I am actively exploring and working on projects in the following domains:
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [Vishv Gehlot](https://www.linkedin.com/in/vishv-gehlot)
-* **GitHub:** [Vishvgehlot](https://github.com/Vishvgehlot)
-
+* **LinkedIn:** [Vishv Gehlot](https://www.linkedin.com/in/vishv-gehlot-a8b637313/)
 ---
 *⭐ If you find these projects useful, feel free to fork this repo or give it a star!*
